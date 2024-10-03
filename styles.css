@@ -1,0 +1,29 @@
+body {
+    background-color: #fdf6e3;
+    font-family: 'Times New Roman', monospace;
+    color: #657b83;
+  }
+  p {
+    font-size: 20px;
+  }
+  h1 {
+    color: #268bd2;
+  }
+  a:link {
+    color: #dc322f;
+    font-size: 18px;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: green;
+  }
+  
+  a:hover {
+    text-decoration: none;
+    color: #6c71c4 ;
+  }
+  li {
+    list-style-type: square;
+  }
+  
