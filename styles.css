@@ -1,29 +1,31 @@
 body {
-    background-color: #fdf6e3;
+    background-color: #e0ff47;
+    font-size: 40px;
     font-family: 'Times New Roman', monospace;
-    color: #657b83;
+    color: darkblue;
   }
   p {
-    font-size: 20px;
+    font-size: 30px;
   }
   h1 {
-    color: #268bd2;
+    color: #0095ff;
   }
   a:link {
     color: #dc322f;
-    font-size: 18px;
+    font-size: 30px;
     text-decoration: none;
   }
   
   a:visited {
-    color: green;
+    color: red;
   }
   
   a:hover {
     text-decoration: none;
-    color: #6c71c4 ;
+    color: rgb(177, 89, 0) ;
   }
   li {
-    list-style-type: square;
+    list-style-type: circle;
+    color: white;
   }
   
